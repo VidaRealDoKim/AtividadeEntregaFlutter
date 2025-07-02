@@ -66,7 +66,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center, // Alinha verticalmente ao centro
           children: <Widget>[
             // Texto fixo explicando a funcionalidade
-            const Text('You have pushed the button this many times:'),
+            const Text('voce apertou o botão muitas vezes'),
 
             // Texto dinâmico que mostra o valor atual do contador
             Text(
