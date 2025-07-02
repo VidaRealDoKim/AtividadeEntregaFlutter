@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         // Define as cores do app com base em uma cor-semente
         colorScheme: ColorScheme.fromSeed(
-          seedColor: const Color.fromARGB(255, 217, 255, 0), // Cor base azul escuro
+          seedColor: const Color.fromARGB(255, 0, 174, 255), // Cor base azul escuro
         ),
       ),
       // Define a tela inicial do app como MyHomePage, passando um título
