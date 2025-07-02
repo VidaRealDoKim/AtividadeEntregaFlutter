@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         // Define as cores do app com base em uma cor-semente
         colorScheme: ColorScheme.fromSeed(
-          seedColor: const Color.fromARGB(255, 0, 174, 255), // Cor base azul escuro
+          seedColor: const Color.fromARGB(255, 217, 255, 0), // Cor base azul escuro
         ),
       ),
       // Define a tela inicial do app como MyHomePage, passando um título
@@ -66,7 +66,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center, // Alinha verticalmente ao centro
           children: <Widget>[
             // Texto fixo explicando a funcionalidade
-            const Text('voce apertou o botão muitas vezess'),
+            const Text('voce apertou o botão muitas vezes'),
 
             // Texto dinâmico que mostra o valor atual do contador
             Text(
