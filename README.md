@@ -48,4 +48,4 @@ Este projeto foi desenvolvido **100% com o apoio de inteligência artificial (IA
 
 ---
 
-> ⭐ Se e
+> ⭐ Se esse projeto te inspirou, não esqueça de deixar uma estrela no repositório e compartilhar!
