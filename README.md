@@ -1,16 +1,51 @@
-# myapp
+# 🤖 App Flutter com IA — Projeto Aula de Introdução ao Desenvolvimento Móvel
 
-A new Flutter project.
+Este projeto foi desenvolvido **100% com o apoio de inteligência artificial (IA)** utilizando o **framework Flutter**, como parte da disciplina de **Introdução ao Desenvolvimento Móvel**.
 
-## Getting Started
+> O objetivo foi explorar a aplicação prática do Flutter com suporte de IA, desenvolvendo uma aplicação funcional do zero, entendendo a estrutura de projetos móveis e simulando um ambiente de trabalho colaborativo.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🧠 Sobre o Projeto
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Aplicativo desenvolvido com auxílio da IA (ChatGPT) em tempo real
+- Código adaptado e compreendido pelos alunos
+- Estrutura organizada com múltiplas telas, navegação e lógica de interação
+- Projeto versionado no GitHub e trabalhado localmente e na nuvem
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- 💙 **Flutter**
+- 🧠 **Inteligência Artificial (ChatGPT)**
+- 📂 **Git + GitHub**
+- 📱 Emulador Android / Dispositivo físico para testes
+
+---
+
+## 💡 Aprendizados
+
+✅ Como estruturar um projeto Flutter do zero  
+✅ Navegação entre telas e gerenciamento de estado básico  
+✅ Utilização de componentes visuais (Widgets)  
+✅ Como utilizar a IA de forma consciente e produtiva no desenvolvimento  
+✅ Trabalho remoto via GitHub e prática de versionamento com commits
+
+---
+
+## 📚 Contexto Educacional
+
+📘 Projeto desenvolvido durante a aula de **Introdução ao Desenvolvimento Móvel**, com o intuito de aplicar os conceitos aprendidos em sala, utilizando **Flutter** e explorando o potencial da **IA como ferramenta de apoio** no desenvolvimento moderno.
+
+---
+
+## 👤 Autor
+
+**David Luis Kim**  
+📱 Estudante de Desenvolvimento de Aplicativos  
+🔗 [@vidarealdokim](https://instagram.com/vidarealdokim)
+
+---
+
+> ⭐ Se e
